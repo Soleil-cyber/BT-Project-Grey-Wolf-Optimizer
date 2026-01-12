@@ -7,5 +7,5 @@ Học kỳ: 2024.1
 
 ## THÔNG TIN NHÓM THỰC HIỆN (NHÓM 23)
 
-Nguyễn Quang Nhật - 202417261
+Nguyễn Quang Nhật - 202417261 &
 Lê Tuấn Vĩ - 202417271
